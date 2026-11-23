@@ -1,0 +1,24 @@
+local set = {}
+set.name = "XB102_ELua"
+set.setName = "XB102_ELua"
+set.logicalName = "<XB102_ELua>"
+set.logicalDestination = "<Engine Lua>"
+set.priority = 80
+set.localDir = _currentDirectory
+set.enableMode = "constant"
+set.descriptionPriority = 0
+set.gameDataName = "XB102_ELua Game Data"
+set.gameDataPriority = 0
+set.gameDataEnableMode = "constant"
+set.localDirIncludeBase = true
+set.localDirRecurse = false
+set.localDirIncludeOnly = nil
+set.localDirExclude = 
+{
+    "_dev/"
+}
+set.gameDataArchives = 
+{
+    _currentDirectory .. "Fables_xbox_XB102_ELua_all.ttarch2"
+}
+RegisterSetDescription(set)

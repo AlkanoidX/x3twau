@@ -1,0 +1,26 @@
+local set = {}
+set.name = "Fables102"
+set.setName = "Fables102"
+set.logicalName = "<Fables102>"
+set.logicalDestination = "<>"
+set.priority = 20
+set.localDir = _currentDirectory
+set.enableMode = "bootable"
+set.descriptionPriority = 0
+set.gameDataName = "Fables102 Game Data"
+set.gameDataPriority = 0
+set.localDirIncludeBase = true
+set.localDirRecurse = false
+set.localDirIncludeOnly = nil
+set.localDirExclude = 
+{
+    "_dev/"
+}
+set.gameDataArchives = 
+{
+    _currentDirectory .. "Fables_xbox_Fables102_anichore.ttarch2",
+    _currentDirectory .. "Fables_xbox_Fables102_data.ttarch2",
+    _currentDirectory .. "Fables_xbox_Fables102_ms.ttarch2",
+    _currentDirectory .. "Fables_xbox_Fables102_txmesh.ttarch2"
+}
+RegisterSetDescription(set)

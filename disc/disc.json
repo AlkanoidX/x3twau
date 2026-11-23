@@ -1,0 +1,971 @@
+{
+ "chunk": 33554432,
+ "files": [
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/22.png",
+   "size": 9307,
+   "chunks": 1,
+   "sha256": "8aaa0b7b7e51336a66a818ba413c37f9519941627ecdcbd4abe1d1973c459448"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/23.png",
+   "size": 9473,
+   "chunks": 1,
+   "sha256": "f5e93dd112a3f68e621c6fe5e13b77603848ce6ef59008428e79f842db6f0b64"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/24.png",
+   "size": 9312,
+   "chunks": 1,
+   "sha256": "5c8ebd3e2101a40a46a7d10d8cbbc3a752211998b40ad5972ccbfe17177ea601"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/25.png",
+   "size": 9682,
+   "chunks": 1,
+   "sha256": "3ab0cca53d87d414d5e7e7aacd7f202091c2c06abd3b34ef8b7d177210d879b7"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/26.png",
+   "size": 9458,
+   "chunks": 1,
+   "sha256": "068e5dfaa23ceda94b812c1442bceeb3e98dca35784dbcb6e9f52e708486717a"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/27.png",
+   "size": 8647,
+   "chunks": 1,
+   "sha256": "06e5c193fa32673a914efb95e8800e2e355ec23f12c4c1bfc2fda034e60e3d2d"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/28.png",
+   "size": 9732,
+   "chunks": 1,
+   "sha256": "c4ee8b885fc29a5f7245f5d15f1c27d0691e17fe95ce7594063bc8f2fd0fd1af"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/Fables_xbox_Fables104_data.ttarch2",
+   "size": 1375326,
+   "chunks": 1,
+   "sha256": "6bcfc74f64cccc574895e4626edb4ff26c93e7ac6387886b208bb43c0a125c90"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/Fables_xbox_Fables104_ms.ttarch2",
+   "size": 322960522,
+   "chunks": 10,
+   "sha256": "444c40766ae39f0937e348994322aab8b8deccafacc7317e74027f7f2ee3c2f4"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/Fables_xbox_Fables104_txmesh.ttarch2",
+   "size": 180264841,
+   "chunks": 6,
+   "sha256": "414930d5511e2cd948a762652765e2f3d678b4621f24f649f5f58c9d588ab7fe"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/Fables_xbox_XB104_Boot_all.ttarch2",
+   "size": 66350,
+   "chunks": 1,
+   "sha256": "b786703135445be477b7439c827d9b221170135fce24a486ff709b3155d5e16a"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/Fables_xbox_XB104_Menu_all.ttarch2",
+   "size": 179703885,
+   "chunks": 6,
+   "sha256": "cb327f832527355709a535d136be26c7c2dc999b3ece7c00217b24e1800297c9"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/Fables_xbox_XB104_Proj_all.ttarch2",
+   "size": 1266696,
+   "chunks": 1,
+   "sha256": "4988211803a84b1d0df48eed3e06bcd116a94ed73e5b9f19061c093517dd16a7"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/Fables_xbox_XB104_Sub_all.ttarch2",
+   "size": 873945,
+   "chunks": 1,
+   "sha256": "868057b6aa4505c411d5a6dfc7db0bba0053796d61d7a340aeb94757412cbbac"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/X_IMAGEID_GAME.png",
+   "size": 4647,
+   "chunks": 1,
+   "sha256": "4804170709a7cd9332d1d07d4429fd57027d0143c1ff1e5508f6347acbf9cc21"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/_mem_Fables_xbox_Fables104_ac.ttarch2",
+   "size": 27694470,
+   "chunks": 1,
+   "sha256": "7f7ac6866ec8aa1b10254a36a841af967c6e7c3599605cdec02c0db9462bb9b6"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/_resourcedescriptions_500_Fables104.lua",
+   "size": 861,
+   "chunks": 1,
+   "sha256": "dec07c54a141cb61e96764f31554ebe934a577669bc00d1f4f78e8dea18b9c3d"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/_resourcedescriptions_500_XB104_Boot.lua",
+   "size": 722,
+   "chunks": 1,
+   "sha256": "1d7f7917a33fcb099747a7dbc3b7d9f6ae1ae4a021ccd3d520d729dcd60872c0"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/_resourcedescriptions_500_XB104_Menu.lua",
+   "size": 722,
+   "chunks": 1,
+   "sha256": "ff085135d9fb725bd7e79c4cd387d88565cc7bfd750b4a641e4662b22d10d9ff"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/_resourcedescriptions_500_XB104_Proj.lua",
+   "size": 725,
+   "chunks": 1,
+   "sha256": "7c1e3981b5eef9e6f45432367c981a687d6ee0352075ddc44a067efdd43bd802"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/_resourcedescriptions_500_XB104_Sub.lua",
+   "size": 713,
+   "chunks": 1,
+   "sha256": "0645397c696605db2dc03505633377a03b49a86b57b3fd9703c66e19f484a94b"
+  },
+  {
+   "path": "dlc/0D172E1F5C7A8D95C8BD2603EAD28D0A8690867958/spa.bin",
+   "size": 280315,
+   "chunks": 1,
+   "sha256": "efdb9cf64dc85315aad8dd2b9158801e7038a94444a35a3dbf5eb733af1ca639"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/08.png",
+   "size": 8316,
+   "chunks": 1,
+   "sha256": "da615e0651ae431a7db4e1fd9777a5d3737df9f2ff0f701ea7c5353b0cdd3347"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/09.png",
+   "size": 9283,
+   "chunks": 1,
+   "sha256": "84a37c9c8598a0b70c53408940575f6aeba78df013a8309d4e67d520a99a5e87"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/10.png",
+   "size": 10238,
+   "chunks": 1,
+   "sha256": "301d1f02902fdcd11e135b1279124f2a7c14a70515eead78f7f9484b64d49559"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/11.png",
+   "size": 8504,
+   "chunks": 1,
+   "sha256": "62b2dbb02d62b0c5c2938e706c2e862a0058e41c4ee8e723cf3e6fa583fb9a1f"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/12.png",
+   "size": 9031,
+   "chunks": 1,
+   "sha256": "f787d33ca8abac91d3a3067493856c4348808a44eac12ac50c13a658072434fd"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/13.png",
+   "size": 8877,
+   "chunks": 1,
+   "sha256": "77cc07bb52039c333fadaf6b384bdcf430be818cc55be8de357b588d38546b32"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/14.png",
+   "size": 8920,
+   "chunks": 1,
+   "sha256": "73df8121f372321421c7250d183af82cee807b019cacd21ef3d54a1eba6728a3"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/Fables_xbox_Fables102_anichore.ttarch2",
+   "size": 52509440,
+   "chunks": 2,
+   "sha256": "78ce6a6cf586be83d881aadda3a9eb0f6daf49f93875578a7149aa13928cc035"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/Fables_xbox_Fables102_data.ttarch2",
+   "size": 1983161,
+   "chunks": 1,
+   "sha256": "d3ba00da631312148c61a6bfc75ec9fb9c4a31dc39ef7856c983cef0cf9f6c6b"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/Fables_xbox_Fables102_ms.ttarch2",
+   "size": 240223392,
+   "chunks": 8,
+   "sha256": "7578e820d9db34e0e86154d32921acd46436c088f67b1e9f4898240c7e7ba6e3"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/Fables_xbox_Fables102_txmesh.ttarch2",
+   "size": 311340357,
+   "chunks": 10,
+   "sha256": "a7fec0bfa9d1f3a7c742e029cbd3ecbe447368069330a99ee1131ad692b5398e"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/Fables_xbox_XB102_ELua_all.ttarch2",
+   "size": 81275,
+   "chunks": 1,
+   "sha256": "9423f7281095e95d2e3b2b9c3c68570b392afa1c2b0335ef1945541a5f4288e7"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/Fables_xbox_XB102_Menu_all.ttarch2",
+   "size": 62256138,
+   "chunks": 2,
+   "sha256": "2ebddb485ceb1bf83958f2f2fedc6ebbc417bf6f508182e0fcb0d84f4acbc181"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/Fables_xbox_XB102_Proj_all.ttarch2",
+   "size": 1170283,
+   "chunks": 1,
+   "sha256": "97bd2b8726a468f8565eafa73ac4e8e7f0006864fdb1bac53bfcef9b1b954e81"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/X_IMAGEID_GAME.png",
+   "size": 4647,
+   "chunks": 1,
+   "sha256": "4804170709a7cd9332d1d07d4429fd57027d0143c1ff1e5508f6347acbf9cc21"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/_resourcedescriptions_500_Fables102.lua",
+   "size": 764,
+   "chunks": 1,
+   "sha256": "11bd0917fdd312b3dcf6955dedebcf1692573e40cf827ffd7935481df38fbf64"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/_resourcedescriptions_500_XB102_ELua.lua",
+   "size": 619,
+   "chunks": 1,
+   "sha256": "17b4e6a83051e2eb9f84ef8cd19686afe972c31eeb8ab88e35cedb427f628444"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/_resourcedescriptions_500_XB102_Menu.lua",
+   "size": 576,
+   "chunks": 1,
+   "sha256": "c80a86a8db68710111e99bf96ee90f28436cb533f799e9088002e674ee3572d3"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/_resourcedescriptions_500_XB102_Proj.lua",
+   "size": 579,
+   "chunks": 1,
+   "sha256": "97d29bbff5433c47dc9cbb0ca15a57a2144f72ae90a83de82ff54cc931aef0c5"
+  },
+  {
+   "path": "dlc/35CED9155C8C8A2A509FEB47B0BF7C92D03F3D4358/spa.bin",
+   "size": 145951,
+   "chunks": 1,
+   "sha256": "2ecc481063f8f454d1c70bb72b4efe26382cffd9f67f668ac236dd93b4c38a08"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/08.png",
+   "size": 8316,
+   "chunks": 1,
+   "sha256": "da615e0651ae431a7db4e1fd9777a5d3737df9f2ff0f701ea7c5353b0cdd3347"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/09.png",
+   "size": 9283,
+   "chunks": 1,
+   "sha256": "84a37c9c8598a0b70c53408940575f6aeba78df013a8309d4e67d520a99a5e87"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/10.png",
+   "size": 10238,
+   "chunks": 1,
+   "sha256": "301d1f02902fdcd11e135b1279124f2a7c14a70515eead78f7f9484b64d49559"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/11.png",
+   "size": 8504,
+   "chunks": 1,
+   "sha256": "62b2dbb02d62b0c5c2938e706c2e862a0058e41c4ee8e723cf3e6fa583fb9a1f"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/12.png",
+   "size": 9031,
+   "chunks": 1,
+   "sha256": "f787d33ca8abac91d3a3067493856c4348808a44eac12ac50c13a658072434fd"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/13.png",
+   "size": 8877,
+   "chunks": 1,
+   "sha256": "77cc07bb52039c333fadaf6b384bdcf430be818cc55be8de357b588d38546b32"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/14.png",
+   "size": 8920,
+   "chunks": 1,
+   "sha256": "73df8121f372321421c7250d183af82cee807b019cacd21ef3d54a1eba6728a3"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/Fables_xbox_Fables103_data.ttarch2",
+   "size": 1354806,
+   "chunks": 1,
+   "sha256": "2c3a910f1c64fc3381b3ba6968ec2694fd86c8faf012391f481efd726bce61df"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/Fables_xbox_Fables103_ms.ttarch2",
+   "size": 287717230,
+   "chunks": 9,
+   "sha256": "e9e158031ec06e5abb39cfcdfd5481b665e7a778bf5e929a8e80cc136d8011bc"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/Fables_xbox_Fables103_txmesh.ttarch2",
+   "size": 208901940,
+   "chunks": 7,
+   "sha256": "1de21049fa87eb63323b80ec57bda8859cba7765e7088075617c160def77c73d"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/Fables_xbox_XB103_Menu_all.ttarch2",
+   "size": 155752107,
+   "chunks": 5,
+   "sha256": "a388d1e6605e1e90b7f509688e366819106d2cd175306a84e402400dd4b6debc"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/Fables_xbox_XB103_Proj_all.ttarch2",
+   "size": 1249172,
+   "chunks": 1,
+   "sha256": "082b484a826ed911a47038942ef85e18e68a7331614642b880388b45c0955513"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/Fables_xbox_XB103_Sub_all.ttarch2",
+   "size": 248925,
+   "chunks": 1,
+   "sha256": "8a23fdcd864626e499b4748fe5b23ca56c46ed9164a6f5f97dafcbb502beb32d"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/X_IMAGEID_GAME.png",
+   "size": 4647,
+   "chunks": 1,
+   "sha256": "4804170709a7cd9332d1d07d4429fd57027d0143c1ff1e5508f6347acbf9cc21"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/_mem_Fables_xbox_Fables103_ac.ttarch2",
+   "size": 29199735,
+   "chunks": 1,
+   "sha256": "141ce68c90f4687d088dc2af22ac6223f0842919ffd3ad32855fc94e35589ced"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/_resourcedescriptions_500_Fables103.lua",
+   "size": 861,
+   "chunks": 1,
+   "sha256": "aa1b0b41185a3d480513b12aee8baf30bde075ecba9a82ff47c5c3edda06ff4c"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/_resourcedescriptions_500_XB103_Menu.lua",
+   "size": 721,
+   "chunks": 1,
+   "sha256": "0dc5485428434b98e08748b5f34b9e4d9a83db945e8cb2aa24fe7ba838d5f066"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/_resourcedescriptions_500_XB103_Proj.lua",
+   "size": 724,
+   "chunks": 1,
+   "sha256": "bc8f6280f1c7cedce9f1c2d23d50597accab1f136ba5f1790b0bebd06940568c"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/_resourcedescriptions_500_XB103_Sub.lua",
+   "size": 712,
+   "chunks": 1,
+   "sha256": "c2ae9abf290d747f0ae3224b4654b656103041ff7183f0f88cd7c49f531f8dd4"
+  },
+  {
+   "path": "dlc/6495C95665B201B1471C828F351FD3B02A10FEC358/spa.bin",
+   "size": 212414,
+   "chunks": 1,
+   "sha256": "4ba9c6794efe8027fc64f8a2dff34ba3bc669985eeeed372db647e11c64c2b8c"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/29.png",
+   "size": 8575,
+   "chunks": 1,
+   "sha256": "e89e40c4c303b9f87b80350fb10c98b2ea3f7397d82a30e68ac4b60858e86c49"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/30.png",
+   "size": 8730,
+   "chunks": 1,
+   "sha256": "f9ded4cb04bf42f041e2576b5905e7965b54f20c625290a637ed051f3cc1b65d"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/31.png",
+   "size": 9196,
+   "chunks": 1,
+   "sha256": "ab3111014c06a143f350a8bc44f59d3106f63dc139534ea2f84b2f6259d4dd2f"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/32.png",
+   "size": 8987,
+   "chunks": 1,
+   "sha256": "6fb8c68dc5df918b5ccebf5cce71eda360cde49491d109e8155cab9db19f7b60"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/33.png",
+   "size": 8117,
+   "chunks": 1,
+   "sha256": "99fd45c41cb233f3591ee79a6694060f96b34218d46d583e88fd918566cc8e16"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/34.png",
+   "size": 8405,
+   "chunks": 1,
+   "sha256": "41aa451c1b2ef234680e24941a26b4e213d32fb908a575f9738b6449b186c2fa"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/35.png",
+   "size": 8683,
+   "chunks": 1,
+   "sha256": "2917b439beab1383644a67cad78e7c11eab076640435c28bb506d96cf95203f9"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/Fables_xbox_Fables105_data.ttarch2",
+   "size": 1305299,
+   "chunks": 1,
+   "sha256": "d4259c5a787c676b54f619c0aa738fa0149b2b935e20502ae035de10b0981489"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/Fables_xbox_Fables105_ms.ttarch2",
+   "size": 342543138,
+   "chunks": 11,
+   "sha256": "c5d2038ebe6c09a67dffe571ad92816df614adbd01b64e0c7d86e6abeefb77dc"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/Fables_xbox_Fables105_txmesh.ttarch2",
+   "size": 206464576,
+   "chunks": 7,
+   "sha256": "c6401f9602c693e389bf79e01cdc70372e5345bc0a8adbda1166ce2e7586fdc3"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/Fables_xbox_XB105_Boot_all.ttarch2",
+   "size": 66350,
+   "chunks": 1,
+   "sha256": "b786703135445be477b7439c827d9b221170135fce24a486ff709b3155d5e16a"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/Fables_xbox_XB105_Menu_all.ttarch2",
+   "size": 215692252,
+   "chunks": 7,
+   "sha256": "d73da5ac6b45556137d457e34cd40f9b82f26302c2839ce0e314f4f47a32221f"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/Fables_xbox_XB105_Proj_all.ttarch2",
+   "size": 2625591,
+   "chunks": 1,
+   "sha256": "79d3bcfac6c4b6dce1214425553ebe98fe8878964f7f6de26622db3cd1319a4c"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/Fables_xbox_XBU_105_all.ttarch2",
+   "size": 357859,
+   "chunks": 1,
+   "sha256": "d324f5da9468dcfe6c9fb7639c549685f6f8f5ed7c74abb6bdc382a324271adc"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/X_IMAGEID_GAME.png",
+   "size": 4647,
+   "chunks": 1,
+   "sha256": "4804170709a7cd9332d1d07d4429fd57027d0143c1ff1e5508f6347acbf9cc21"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/_mem_Fables_xbox_Fables105_ac.ttarch2",
+   "size": 35679408,
+   "chunks": 2,
+   "sha256": "27188d60043118aacf97c3c685e593e038dcf7ead402d1f22c7b7936cef8feff"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/_resourcedescriptions_500_Fables105.lua",
+   "size": 861,
+   "chunks": 1,
+   "sha256": "d61fee4aa5706d90bb949c3d0dfd7a3f6ca9b4b93a9cbe46cba8e6c8511ccc4b"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/_resourcedescriptions_500_XB105_Boot.lua",
+   "size": 722,
+   "chunks": 1,
+   "sha256": "911c059ade98fc07cc7f0197ff618befd33e9350916f2a3f62244248cb041abe"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/_resourcedescriptions_500_XB105_Menu.lua",
+   "size": 722,
+   "chunks": 1,
+   "sha256": "4cf9888de3b748d51e3037afe8bcb4dba035dc3bb06f24c0302a476a0e10c91d"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/_resourcedescriptions_500_XB105_Proj.lua",
+   "size": 725,
+   "chunks": 1,
+   "sha256": "5ae8bd565e7b8bb15801d96672afa710c2a038675c97ef9f66696c0f36b9c10f"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/_resourcedescriptions_500_XB105_Sub.lua",
+   "size": 711,
+   "chunks": 1,
+   "sha256": "fde2e8f6381f650de6e5101704c53a8cd676b0981bea6a8790a27ae9798dcdec"
+  },
+  {
+   "path": "dlc/72F62E833EDB01B8B87D8B703AE3DF86B213ECE758/spa.bin",
+   "size": 343224,
+   "chunks": 1,
+   "sha256": "c3e985c272d28334925b17303f1ea506eb6f9580defd535476aa327db6d4d885"
+  },
+  {
+   "path": "game/01.png",
+   "size": 10700,
+   "chunks": 1,
+   "sha256": "a5504b11b7269e37ce65a9c1ef836d0884026feb29de2a4ac907bdf9152bd262"
+  },
+  {
+   "path": "game/02.png",
+   "size": 10102,
+   "chunks": 1,
+   "sha256": "fce3f797bd896603253d5cb9322fa2100bd81de46555d3d58db5666f8c859eb5"
+  },
+  {
+   "path": "game/03.png",
+   "size": 9676,
+   "chunks": 1,
+   "sha256": "71cdf42dc6187cd1a296ddf5d2ed2251712e3ce883c663cdb1c56cb5fdc0622f"
+  },
+  {
+   "path": "game/04.png",
+   "size": 9386,
+   "chunks": 1,
+   "sha256": "d4df63f064ec31dd679d9b7c64ebc35bf86b75033eb36c7bb4d2facae1431a39"
+  },
+  {
+   "path": "game/05.png",
+   "size": 9602,
+   "chunks": 1,
+   "sha256": "f7cb2e8c4077dc69aea6e393b02cbf4c32df519c08f6ca2f409704f6756424d7"
+  },
+  {
+   "path": "game/06.png",
+   "size": 10023,
+   "chunks": 1,
+   "sha256": "da900ef9d271fc0fdb898240e85b7221c2bf927a911135639543863af10089f4"
+  },
+  {
+   "path": "game/07.png",
+   "size": 9338,
+   "chunks": 1,
+   "sha256": "fcb015337815fe9a3800bf269fac6721e9a92c2accca4f4743bf4144b8d1ef31"
+  },
+  {
+   "path": "game/ArcadeInfo.xml",
+   "size": 1108,
+   "chunks": 1,
+   "sha256": "fd63b472f116acefdb0279ed72dcea918f37b89a6b4ed9f5f57c812e83e7eb07"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Boot_anichore.ttarch2",
+   "size": 5581,
+   "chunks": 1,
+   "sha256": "906bff29b4d9b5857e703e425989d9d9ba4bfb04aa5abc0dc44d019eeea582fe"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Boot_data.ttarch2",
+   "size": 19969,
+   "chunks": 1,
+   "sha256": "bda41e335ec1fc820e6b6b3998e6971d140e86aea46aa9835a168f1d327b96fb"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Boot_ms.ttarch2",
+   "size": 912308,
+   "chunks": 1,
+   "sha256": "8d24d3ba416d6b1d80a9a795ad4556d755f75aa626c8321e21e320adaf9b6f7e"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Boot_txmesh.ttarch2",
+   "size": 2059348,
+   "chunks": 1,
+   "sha256": "6bfd340704a81143cb4a0b606d2991a06d7a855c1eac0df46f713cfbd475a8d4"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Engine Lua_data.ttarch2",
+   "size": 44469,
+   "chunks": 1,
+   "sha256": "d7a35b2b57a0615ba9665d10ae8640d2a3c19a43106195d5c9a764a713d1be44"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Fables101_anichore.ttarch2",
+   "size": 61576423,
+   "chunks": 2,
+   "sha256": "6c0fd92294a81b316101e2b40fea4f39a4afd9cf7e1f43257fb5c297e73f429e"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Fables101_data.ttarch2",
+   "size": 1790953,
+   "chunks": 1,
+   "sha256": "a53fcd7e709336cac8347c84d723c02ac1fd06123e0f9c07c369b496021f8d52"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Fables101_ms.ttarch2",
+   "size": 250635628,
+   "chunks": 8,
+   "sha256": "8c049d00d50b3973b647937d7652581c55df0f8371463eb03b5fe472d392b1b3"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Fables101_txmesh.ttarch2",
+   "size": 289018497,
+   "chunks": 9,
+   "sha256": "da37cf7f3a77e66fe848e3bcb18e4107c15a7b725581da3718842b0c5ed39237"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Menu_anichore.ttarch2",
+   "size": 1590953,
+   "chunks": 1,
+   "sha256": "1d23705f95f7edd10c3bc8a5115e4d7a89ce2b06119e0b6ec00ab038c3b22c2d"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Menu_data.ttarch2",
+   "size": 396889,
+   "chunks": 1,
+   "sha256": "70c5b94f0b83cc85ca93bbba0079bf076c4f4c2ab2c96988906f3666b6fb5308"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Menu_ms.ttarch2",
+   "size": 4718920,
+   "chunks": 1,
+   "sha256": "a87f3ffa525aff4cc379515409c074eaf479a761db7334e42a713e8eead88d23"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Menu_txmesh.ttarch2",
+   "size": 80282260,
+   "chunks": 3,
+   "sha256": "7929225383a5ac5957462e68593d62e6c334efc442bfd48d6fbb0ab86116d434"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Project_all.ttarch2",
+   "size": 760741,
+   "chunks": 1,
+   "sha256": "d6eca6baf1b468280a50934a39d76d5480c9978c4540332f8169135146b4af33"
+  },
+  {
+   "path": "game/Pack/Fables_xbox_Shaders_shader.ttarch2",
+   "size": 221702063,
+   "chunks": 7,
+   "sha256": "f9d31faf94588199b19fe41e422e4f6853b117ba4cd6449dd6c20be3b3c389a1"
+  },
+  {
+   "path": "game/Pack/XBU01_F101_all.ttarch2",
+   "size": 363106,
+   "chunks": 1,
+   "sha256": "4a8557c1c48897863d8f495658a53f26b842ba88585d73bfc8c63c635fe91802"
+  },
+  {
+   "path": "game/Pack/XBU01_Menu_all.ttarch2",
+   "size": 115883,
+   "chunks": 1,
+   "sha256": "37dddf8c40b85bbd9e596c09e7fbef46f3275b190aebe66ddd00b84bf0503794"
+  },
+  {
+   "path": "game/Pack/XBU01_Prj_all.ttarch2",
+   "size": 12425,
+   "chunks": 1,
+   "sha256": "bf353c3934e61b6b74874159104962ada2b1ebe29a37328d7de20e662834f390"
+  },
+  {
+   "path": "game/Pack/_resourcedescriptions_500_Boot.lua",
+   "size": 724,
+   "chunks": 1,
+   "sha256": "1f478c5610388f045af9db810d7596f36638180047d6c03c1f46d969d7827155"
+  },
+  {
+   "path": "game/Pack/_resourcedescriptions_500_Engine_Lua.lua",
+   "size": 576,
+   "chunks": 1,
+   "sha256": "74167a4a702677e1ae409f0fc6b687f2c65c81b846f34ad8ce7567b4dc6d07f7"
+  },
+  {
+   "path": "game/Pack/_resourcedescriptions_500_Fables101.lua",
+   "size": 764,
+   "chunks": 1,
+   "sha256": "7c8e21cbbfab21f49061bb146a10f0a35f700610de0956a98382bfe0180205e2"
+  },
+  {
+   "path": "game/Pack/_resourcedescriptions_500_Menu.lua",
+   "size": 724,
+   "chunks": 1,
+   "sha256": "8cf42807de087bda660f3a48b87a760bea384f6b35fb1aec61ea62e056782d27"
+  },
+  {
+   "path": "game/Pack/_resourcedescriptions_500_Project.lua",
+   "size": 560,
+   "chunks": 1,
+   "sha256": "659bc42ae51dd51f50896af7026c1f9dc688fda4667a5f1a5d072fd866ffdc24"
+  },
+  {
+   "path": "game/Pack/_resourcedescriptions_500_Shaders.lua",
+   "size": 563,
+   "chunks": 1,
+   "sha256": "647da460026de22e5c7f412b5091db7320c07d75300c773c0e374a3dedbbe9c9"
+  },
+  {
+   "path": "game/Pack/_resourcedescriptions_500_XBU01_F101.lua",
+   "size": 569,
+   "chunks": 1,
+   "sha256": "de3ff430c7a8be897c150f11550b946bb968807f6ca568c2fbd65e2b368f6e0b"
+  },
+  {
+   "path": "game/Pack/_resourcedescriptions_500_XBU01_Menu.lua",
+   "size": 564,
+   "chunks": 1,
+   "sha256": "6c94295184f2192d94808a778725e6e38c840ab3e657cfb7239c5a3853b60538"
+  },
+  {
+   "path": "game/Pack/_resourcedescriptions_500_XBU01_Prj.lua",
+   "size": 562,
+   "chunks": 1,
+   "sha256": "13fa44b55ae33dd8b09afafa7d4ff797827857f161d0b5438d1f6bea9a872a8e"
+  },
+  {
+   "path": "game/X_IMAGEID_GAME.png",
+   "size": 4647,
+   "chunks": 1,
+   "sha256": "4804170709a7cd9332d1d07d4429fd57027d0143c1ff1e5508f6347acbf9cc21"
+  },
+  {
+   "path": "game/default.xex",
+   "size": 2981888,
+   "chunks": 1,
+   "sha256": "9c52f6f9d7460ddd1166de3a967c74c13916c257ec86a43cab8ce598f6882103"
+  },
+  {
+   "path": "game/default.xexp",
+   "size": 1077248,
+   "chunks": 1,
+   "sha256": "8a5aa6795b498d2b9e05996edec7c4da11fbb1886acd2dc4ce46dad333c4de90"
+  },
+  {
+   "path": "update/Fables_xbox_Boot_Loc_all.ttarch2",
+   "size": 137335,
+   "chunks": 1,
+   "sha256": "99764ffeb961812b951fa4d5a0168646fd28dd88687f793c5185c8ba367a8c39"
+  },
+  {
+   "path": "update/Fables_xbox_F101_Loc.ttarch2",
+   "size": 1682689,
+   "chunks": 1,
+   "sha256": "b04418cbc88aa018a2eb923fc38077470d5c084f0b7924cb5d1e50f94b795ed2"
+  },
+  {
+   "path": "update/Fables_xbox_F102_Loc.ttarch2",
+   "size": 1739695,
+   "chunks": 1,
+   "sha256": "640738cb6ea59fe88ac604338f5b87e19868ba208b318aebe5bfcf7be0852c54"
+  },
+  {
+   "path": "update/Fables_xbox_F103_Loc.ttarch2",
+   "size": 1066425,
+   "chunks": 1,
+   "sha256": "9115f457ac6b1cb8987118862baa9f0616a31d162e79106934142f2bc74aa600"
+  },
+  {
+   "path": "update/Fables_xbox_F104_Loc.ttarch2",
+   "size": 1112828,
+   "chunks": 1,
+   "sha256": "021315b93386ffdf7a85d335094e0fa7ad3cc6909e5da361ad6bdea6b78acdcd"
+  },
+  {
+   "path": "update/Fables_xbox_F105_Loc.ttarch2",
+   "size": 978550,
+   "chunks": 1,
+   "sha256": "45206ad055dcd56ef3723e3735fe89a1f91409d9a3199d733b1e9e1a9b2245b2"
+  },
+  {
+   "path": "update/Fables_xbox_French_all.ttarch2",
+   "size": 3382552,
+   "chunks": 1,
+   "sha256": "c4c74c283475da2c8159e40f2b660d7e0dd1ad353d1ec52718579bb8d6d82169"
+  },
+  {
+   "path": "update/Fables_xbox_German_all.ttarch2",
+   "size": 3167524,
+   "chunks": 1,
+   "sha256": "4fb638a699347dbf610534a63b4efd7fbd4f04b234bea51753ec7041ea58347d"
+  },
+  {
+   "path": "update/Fables_xbox_Menu_Loc_all.ttarch2",
+   "size": 3475315,
+   "chunks": 1,
+   "sha256": "0078b7e40f121728b48d53ef1871d2c5754402f254b861c80946456b17383141"
+  },
+  {
+   "path": "update/Fables_xbox_Preload.ttarch2",
+   "size": 11718222,
+   "chunks": 1,
+   "sha256": "0385e039ffe7bfe85f22f8b309aa4cde82cc994d4becc454ddbe0feba8f1285c"
+  },
+  {
+   "path": "update/Fables_xbox_Proj_Loc_all.ttarch2",
+   "size": 4033300,
+   "chunks": 1,
+   "sha256": "6cca740b274c08c448fba635c2231c3a6184d323edafc4ed4588b629fd4070a0"
+  },
+  {
+   "path": "update/Fables_xbox_Spanish_all.ttarch2",
+   "size": 3167524,
+   "chunks": 1,
+   "sha256": "5d6111b08a4c7a3ea6d14793eae8afc429474ff5fc103eed4be98df69144d2f9"
+  },
+  {
+   "path": "update/Fables_xbox_X105_Menu_all.ttarch2",
+   "size": 73536713,
+   "chunks": 3,
+   "sha256": "83690e6b6461256730b99db919bceb2033f06402ed7fff585621c3a74b123e4b"
+  },
+  {
+   "path": "update/XBU02_F101_all.ttarch2",
+   "size": 1363,
+   "chunks": 1,
+   "sha256": "a42cc0ef9a925435331fdaeb07afc129b2ea8ac24d722b0377f0e5617b47f276"
+  },
+  {
+   "path": "update/XBU02_Menu_all.ttarch2",
+   "size": 12097,
+   "chunks": 1,
+   "sha256": "86fd80be6ab50ae60bf151c5ff389271379f54697de67845dc4cfa0db903da26"
+  },
+  {
+   "path": "update/XBU03_Boot_all.ttarch2",
+   "size": 105617,
+   "chunks": 1,
+   "sha256": "5c6a14c2f5f2ac281603445474090d3aea56483b03d3220d107d8680306d3b90"
+  },
+  {
+   "path": "update/XBU03_ELua_all.ttarch2",
+   "size": 83160,
+   "chunks": 1,
+   "sha256": "d8bf481209c3b5e4641dc95226430f3e08de0c5124ef3cd02ce95339ac37472d"
+  },
+  {
+   "path": "update/XBU03_Menu_all.ttarch2",
+   "size": 381029,
+   "chunks": 1,
+   "sha256": "f2fa785bca65e0d3008f42e5fbc975eb6b295f8d48ab34b638f673f86a042fe8"
+  },
+  {
+   "path": "update/XBU03_Proj_all.ttarch2",
+   "size": 104970,
+   "chunks": 1,
+   "sha256": "c9be5ae5ea330becc4d7578a51263608b4211d6b963b5be68a8c704df11e46bb"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_Boot_Loc.lua",
+   "size": 697,
+   "chunks": 1,
+   "sha256": "5736be055cc991d0dfe32e5c161bad30dc9f60eb84e3867f7e444f6a96427090"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_F101_Loc.lua",
+   "size": 698,
+   "chunks": 1,
+   "sha256": "04115438dbcc0b6b3931f7555614eb78bf08289fb183c89f051120a641e22ea9"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_F102_Loc.lua",
+   "size": 698,
+   "chunks": 1,
+   "sha256": "aa183e0ce4be3758ef1efe4107f00e49100ef952697d57561796f1d396b09fd8"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_F103_Loc.lua",
+   "size": 698,
+   "chunks": 1,
+   "sha256": "3a085242141c28f506c66145cc1840972b47b26ef4a73d09c3ccf4fbe87de058"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_F104_Loc.lua",
+   "size": 698,
+   "chunks": 1,
+   "sha256": "daf29578452e2e2891bfadd35f4df11832b9293461c04c916649cb7b9c666541"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_F105_Loc.lua",
+   "size": 698,
+   "chunks": 1,
+   "sha256": "179c4ab300cb4cd759668a2aba08a1a3fb90676d8716b01f13e3638df2083ed0"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_French.lua",
+   "size": 655,
+   "chunks": 1,
+   "sha256": "6f9b7e0d3638525ff87f3604f36e73d85e78db422d7524043506571a59494ca9"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_German.lua",
+   "size": 655,
+   "chunks": 1,
+   "sha256": "9fc68f8c6eb1ecd24ac34f6d5882cb6b5c887883897c2cb7fee44047d428ae62"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_Menu_Loc.lua",
+   "size": 697,
+   "chunks": 1,
+   "sha256": "6c249291e3ec3081888a5119e6581390c283ef5dc6789f52d247142ad1989d33"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_Preload.lua",
+   "size": 562,
+   "chunks": 1,
+   "sha256": "0c27e6e0613241d9ff6107aefce2aa8339ab9890f76a30572f869999028350cb"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_Proj_Loc.lua",
+   "size": 700,
+   "chunks": 1,
+   "sha256": "d4e57ba4e45494251ef70e876ce9a7da6c4b03891d3506eab08ab3d0ac6b3102"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_Spanish.lua",
+   "size": 660,
+   "chunks": 1,
+   "sha256": "91b9a0f50d4b315ba6f1fbc414809782663a6b08f39fdf24b27a33d4b7e8baef"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_XBU02_F101.lua",
+   "size": 569,
+   "chunks": 1,
+   "sha256": "432c162e8f930d89d0c36b0102a963de9f3ac069b2cdd673fa30d556d86e5e8b"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_XBU02_Menu.lua",
+   "size": 564,
+   "chunks": 1,
+   "sha256": "5ae6621d2014f9d12e39b221c0b29f1917be7d2b002c2b9808878456d86f4e61"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_XBU03_Boot.lua",
+   "size": 624,
+   "chunks": 1,
+   "sha256": "3fb348d450b72340b43a18fb797bf20997f0464453316f78ebfb6307cb13708a"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_XBU03_ELua.lua",
+   "size": 570,
+   "chunks": 1,
+   "sha256": "db82fa20e686b5cc3837536b98240c993cf35c0343c13a0df462de38e2869aec"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_XBU03_Menu.lua",
+   "size": 564,
+   "chunks": 1,
+   "sha256": "3f5a988e6fc40c9434becb61b9184274a8ede7df3c0d9b9d1d8aa89998a1b6a6"
+  },
+  {
+   "path": "update/_resourcedescriptions_500_XBU03_Proj.lua",
+   "size": 567,
+   "chunks": 1,
+   "sha256": "a52bf8c8624a11f465ac49a89c1fc4ba0ba98325bf4e7089f1e776aa8783e9e5"
+  },
+  {
+   "path": "update/_resourcedescriptions_510_X105_Menu.lua",
+   "size": 720,
+   "chunks": 1,
+   "sha256": "bb189eaf2be08fd22c2fbcc90837e229ed19e6d07eeb20f29c9ee5d76a0a4042"
+  },
+  {
+   "path": "update/default.xexp",
+   "size": 1077248,
+   "chunks": 1,
+   "sha256": "8a5aa6795b498d2b9e05996edec7c4da11fbb1886acd2dc4ce46dad333c4de90"
+  }
+ ]
+}

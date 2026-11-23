@@ -1,0 +1,26 @@
+local set = {}
+set.name = "XBU_104"
+set.setName = "XBU_104"
+set.descriptionFilenameOverride = "_resourcedescriptions_500_XB104_Sub"
+set.logicalName = "<XBU_104>"
+set.logicalDestination = "<Fables104>"
+set.priority = 100
+set.localDir = _currentDirectory
+set.enableMode = "constant"
+set.version = "xbox_ep4_patch"
+set.descriptionPriority = 150
+set.gameDataName = "XBU_104 Game Data"
+set.gameDataPriority = 0
+set.gameDataEnableMode = "constant"
+set.localDirIncludeBase = true
+set.localDirRecurse = false
+set.localDirIncludeOnly = nil
+set.localDirExclude = 
+{
+    "_dev/"
+}
+set.gameDataArchives = 
+{
+    _currentDirectory .. "Fables_xbox_XB104_Sub_all.ttarch2"
+}
+RegisterSetDescription(set)

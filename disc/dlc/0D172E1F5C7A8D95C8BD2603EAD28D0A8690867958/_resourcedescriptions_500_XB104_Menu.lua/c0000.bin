@@ -1,0 +1,26 @@
+local set = {}
+set.name = "XB102_Menu"
+set.setName = "XB102_Menu"
+set.descriptionFilenameOverride = "_resourcedescriptions_500_XB104_Menu"
+set.logicalName = "<XB102_Menu>"
+set.logicalDestination = "<Menu>"
+set.priority = 100
+set.localDir = _currentDirectory
+set.enableMode = "constant"
+set.version = "xbox_ep4_patch"
+set.descriptionPriority = 150
+set.gameDataName = "XB102_Menu Game Data"
+set.gameDataPriority = 0
+set.gameDataEnableMode = "constant"
+set.localDirIncludeBase = true
+set.localDirRecurse = false
+set.localDirIncludeOnly = nil
+set.localDirExclude = 
+{
+    "_dev/"
+}
+set.gameDataArchives = 
+{
+    _currentDirectory .. "Fables_xbox_XB104_Menu_all.ttarch2"
+}
+RegisterSetDescription(set)
