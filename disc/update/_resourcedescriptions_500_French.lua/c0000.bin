@@ -1,0 +1,26 @@
+local set = {}
+set.name = "French"
+set.setName = "French"
+set.descriptionFilenameOverride = ""
+set.logicalName = "<French>"
+set.logicalDestination = "<>"
+set.priority = 800
+set.localDir = _currentDirectory
+set.enableMode = "localization"
+set.version = "trunk"
+set.descriptionPriority = 0
+set.gameDataName = "French Game Data"
+set.gameDataPriority = 0
+set.gameDataEnableMode = "constant"
+set.localDirIncludeBase = true
+set.localDirRecurse = false
+set.localDirIncludeOnly = nil
+set.localDirExclude = 
+{
+    "_dev/"
+}
+set.gameDataArchives = 
+{
+    _currentDirectory .. "Fables_xbox_French_all.ttarch2"
+}
+RegisterSetDescription(set)

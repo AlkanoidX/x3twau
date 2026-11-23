@@ -1,0 +1,23 @@
+local set = {}
+set.name = "Preload"
+set.setName = "Preload"
+set.logicalName = "<Preload>"
+set.logicalDestination = "<Fables101>"
+set.priority = 60
+set.localDir = _currentDirectory
+set.enableMode = "constant"
+set.descriptionPriority = 0
+set.gameDataName = "Preload Game Data"
+set.gameDataPriority = 0
+set.localDirIncludeBase = true
+set.localDirRecurse = false
+set.localDirIncludeOnly = nil
+set.localDirExclude = 
+{
+    "_dev/"
+}
+set.gameDataArchives = 
+{
+    _currentDirectory .. "Fables_xbox_Preload.ttarch2"
+}
+RegisterSetDescription(set)

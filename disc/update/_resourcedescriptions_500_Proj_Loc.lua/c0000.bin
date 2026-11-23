@@ -1,0 +1,26 @@
+local set = {}
+set.name = "Proj_Loc"
+set.setName = "Proj_Loc"
+set.descriptionFilenameOverride = "_resourcedescriptions_500_Proj_Loc"
+set.logicalName = "<Proj_Loc>"
+set.logicalDestination = "<Project>"
+set.priority = 500
+set.localDir = _currentDirectory
+set.enableMode = "constant"
+set.version = "loc"
+set.descriptionPriority = 0
+set.gameDataName = "Proj_Loc Game Data"
+set.gameDataPriority = 0
+set.gameDataEnableMode = "constant"
+set.localDirIncludeBase = true
+set.localDirRecurse = false
+set.localDirIncludeOnly = nil
+set.localDirExclude = 
+{
+    "_dev/"
+}
+set.gameDataArchives = 
+{
+    _currentDirectory .. "Fables_xbox_Proj_Loc_all.ttarch2"
+}
+RegisterSetDescription(set)

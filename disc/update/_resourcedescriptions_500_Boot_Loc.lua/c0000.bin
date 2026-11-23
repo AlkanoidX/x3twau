@@ -1,0 +1,26 @@
+local set = {}
+set.name = "Boot_Loc"
+set.setName = "Boot_Loc"
+set.descriptionFilenameOverride = "_resourcedescriptions_500_Boot_Loc"
+set.logicalName = "<Boot_Loc>"
+set.logicalDestination = "<Boot>"
+set.priority = 500
+set.localDir = _currentDirectory
+set.enableMode = "constant"
+set.version = "loc"
+set.descriptionPriority = 0
+set.gameDataName = "Boot_Loc Game Data"
+set.gameDataPriority = 0
+set.gameDataEnableMode = "constant"
+set.localDirIncludeBase = true
+set.localDirRecurse = false
+set.localDirIncludeOnly = nil
+set.localDirExclude = 
+{
+    "_dev/"
+}
+set.gameDataArchives = 
+{
+    _currentDirectory .. "Fables_xbox_Boot_Loc_all.ttarch2"
+}
+RegisterSetDescription(set)

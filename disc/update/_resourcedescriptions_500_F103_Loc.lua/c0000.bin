@@ -1,0 +1,26 @@
+local set = {}
+set.name = "F103_Loc"
+set.setName = "F103_Loc"
+set.descriptionFilenameOverride = "_resourcedescriptions_500_F103_Loc"
+set.logicalName = "<F103_Loc>"
+set.logicalDestination = "<Fables103>"
+set.priority = 500
+set.localDir = _currentDirectory
+set.enableMode = "constant"
+set.version = "loc"
+set.descriptionPriority = 0
+set.gameDataName = "F103_Loc Game Data"
+set.gameDataPriority = 0
+set.gameDataEnableMode = "constant"
+set.localDirIncludeBase = true
+set.localDirRecurse = false
+set.localDirIncludeOnly = nil
+set.localDirExclude = 
+{
+    "_dev/"
+}
+set.gameDataArchives = 
+{
+    _currentDirectory .. "Fables_xbox_F103_Loc.ttarch2"
+}
+RegisterSetDescription(set)

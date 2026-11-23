@@ -1,0 +1,26 @@
+local set = {}
+set.name = "Menu_Loc"
+set.setName = "Menu_Loc"
+set.descriptionFilenameOverride = "_resourcedescriptions_500_Menu_Loc"
+set.logicalName = "<Menu_Loc>"
+set.logicalDestination = "<Menu>"
+set.priority = 500
+set.localDir = _currentDirectory
+set.enableMode = "constant"
+set.version = "loc"
+set.descriptionPriority = 0
+set.gameDataName = "Menu_Loc Game Data"
+set.gameDataPriority = 0
+set.gameDataEnableMode = "constant"
+set.localDirIncludeBase = true
+set.localDirRecurse = false
+set.localDirIncludeOnly = nil
+set.localDirExclude = 
+{
+    "_dev/"
+}
+set.gameDataArchives = 
+{
+    _currentDirectory .. "Fables_xbox_Menu_Loc_all.ttarch2"
+}
+RegisterSetDescription(set)

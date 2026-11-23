@@ -1,0 +1,25 @@
+local set = {}
+set.name = "XBU03_Boot"
+set.setName = "XBU03_Boot"
+set.logicalName = "<XBU03_Boot>"
+set.logicalDestination = "<Boot>"
+set.priority = 75
+set.localDir = _currentDirectory
+set.enableMode = "constant"
+set.version = "trunk"
+set.descriptionPriority = 0
+set.gameDataName = "XBU03_Boot Game Data"
+set.gameDataPriority = 0
+set.gameDataEnableMode = "constant"
+set.localDirIncludeBase = true
+set.localDirRecurse = false
+set.localDirIncludeOnly = nil
+set.localDirExclude = 
+{
+    "_dev/"
+}
+set.gameDataArchives = 
+{
+    _currentDirectory .. "XBU03_Boot_all.ttarch2"
+}
+RegisterSetDescription(set)
