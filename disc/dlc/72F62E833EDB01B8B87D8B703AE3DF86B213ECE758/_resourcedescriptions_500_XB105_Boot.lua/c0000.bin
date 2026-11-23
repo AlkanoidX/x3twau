@@ -1,0 +1,26 @@
+local set = {}
+set.name = "XBU03_Boot"
+set.setName = "XBU03_Boot"
+set.descriptionFilenameOverride = "_resourcedescriptions_500_XB105_Boot"
+set.logicalName = "<XBU03_Boot>"
+set.logicalDestination = "<Boot>"
+set.priority = 110
+set.localDir = _currentDirectory
+set.enableMode = "constant"
+set.version = "xbox_ep5_patch"
+set.descriptionPriority = 200
+set.gameDataName = "XBU03_Boot Game Data"
+set.gameDataPriority = 0
+set.gameDataEnableMode = "constant"
+set.localDirIncludeBase = true
+set.localDirRecurse = false
+set.localDirIncludeOnly = nil
+set.localDirExclude = 
+{
+    "_dev/"
+}
+set.gameDataArchives = 
+{
+    _currentDirectory .. "Fables_xbox_XB105_Boot_all.ttarch2"
+}
+RegisterSetDescription(set)
